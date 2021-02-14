@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f7b4507-73f4-4034-8c4d-dfb151761112" name="Default Changelist" comment="" />
+    <list default="true" id="9f7b4507-73f4-4034-8c4d-dfb151761112" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProgram_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProgram_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,6 +140,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613305156302" />
+    <state x="263" y="99" key="IDE.errors.dialog" timestamp="1613307422529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1613307422529" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1613304946599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
